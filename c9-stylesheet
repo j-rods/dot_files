@@ -1,0 +1,3 @@
+.codeditorHolder.ace_editor {
+    line-height: 25px;
+}
